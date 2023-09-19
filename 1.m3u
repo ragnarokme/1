@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:36,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
+#EXTINF:6,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:12,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
+#EXTINF:60,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:60,Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:54,NashaSibir4k
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/video_3840x2160_avc1/variant.m3u8
+#EXTINF:0,Hollywood HD
+https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
+#EXTINF:36,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.58 Mobile Safari/537.36 EdgA/97.0.1072.69
+http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAHD.m3u8
+#EXTINF:21,Trash HD
+http://dmi3y-tv.ru/hls/CH_TRASHHD.m3u8
+#EXTINF:64,A1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:64,A2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:24,Amedia Hit HD
+http://193.33.240.8:8080/amedia_hit_hd/index.m3u8
+#EXTINF:44,Amedia Premium HD
+https://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:0,BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:6,Backustv Dark
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:0,BOLT HD
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD.m3u8
+#EXTINF:0,FAN
+http://193.33.88.172/fan/tracks-v1a1/mono.m3u8
+#EXTINF:0,FOX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/9916.ts
+#EXTINF:60,FOX Russia HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:64,Fox Life Russia HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
+#EXTINF:64,Fenix Kino HD
+http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
+#EXTINF:24,Кинопремьера HD
+http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
+#EXTINF:20,Kinoman
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:2700,Kronehit HD
+http://dmi3y-tv.ru/hls/CH_KRONEHITHD.m3u8
+#EXTINF:0,Kino 1
+http://91.233.215.250:7272/i0yRlKi4YlfGtF6
+#EXTINF:24,Kinojam 1
+http://193.33.88.172/kinojam1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Kinojam 2
+http://193.33.88.172/kinojam2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Kino7 Baltic
+http://91.233.215.250:7272/Hdyt7wbXlSuwOpq
+#EXTINF:24,Film zone
+http://89.254.128.5:22280/film_zone/video.m3u8
+#EXTINF:0,Plan B
+http://31.148.6.4:10236/index.m3u8?%7CUser-agent=deooleg
+#EXTINF:60,NAT_Prima
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:0,Start Air
+http://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+#EXTINF:64,Start Triumph HD
+http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/1080p.m3u8
+#EXTINF:64,Start World
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:64,STAR Cinema HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
+#EXTINF:64,STAR Family HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+#EXTINF:64,Start World
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:0,VIP Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+#EXTINF:0,Vip Premiere HD
+https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
+#EXTINF:0,VIP Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+#EXTINF:0,VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:64,VIP Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:0,VIP Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:64,TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+#EXTINF:0,TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:64,TV1000 Ru Kino HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:0,Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/720p.m3u8
+#EXTINF:0,Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/720p.m3u8
+#EXTINF:0,RT HD
+http://dmi3y-tv.ru/hls/CH_RTHD.m3u8
+#EXTINF:20,RTG HD
+http://91.197.104.34:8080/RTGHD/video.m3u8
+#EXTINF:64,RUTV HD
+https://okkotv-live.cdnvideo.ru/channel/RUTV_HD/1080p.m3u8
+#EXTINF:64,Nat Geo Russia HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:0,ID DISCOVERY
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:0,INTER + HD
+http://149.5.17.34:20041/play/a05v
+#EXTINF:0,H1 International
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:0,History HD
+http://91.233.215.250:7272/PK41HvJyzlbR8XZ
