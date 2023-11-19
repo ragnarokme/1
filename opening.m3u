@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"#EXTINF:36,
-#EXTINF:104, BCU Ultra 4K
+#EXTINF:100,BCU Ultra 4K
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11045/index.m3u8
 #EXTINF:0,SKY HIGH UHD HDR
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/17059/index.m3u8
@@ -228,53 +228,51 @@ http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18139/index.m3u8
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/16152/index.m3u8
 #EXTINF:0,Citrus Live HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19436/index.m3u8
-#EXTINF:0,Citrus Marvel
+#EXTINF:126,Citrus Marvel
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/16051/index.m3u8
 #EXTINF:100,Cobra Detektiv HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20213/index.m3u8
 #EXTINF:102,Cobra Melodrama HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20214/index.m3u8
-#EXTINF:104,Cobra Triller HD
+#EXTINF:100,Cobra Triller HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20215/index.m3u8
-#EXTINF:0,Continent E HD
-http://ott.watch/stream/2ZYCRE4JK5/449.m3u8
 #EXTINF:80,Discovery HD
 http://ott.watch/stream/2ZYCRE4JK5/177.m3u8
-#EXTINF:0,Discovery Science HD
+#EXTINF:80,Discovery Science HD
 http://ott.watch/stream/2ZYCRE4JK5/146.m3u8
 #EXTINF:100,Discovery Science HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6001/index.m3u8
 #EXTINF:0,Discovery Science HD
 http://91.196.39.252:4000/play/a008
-#EXTINF:101,Discovery Science HD orig
+#EXTINF:104,Discovery Science HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9326/index.m3u8
 #EXTINF:0,Dosug TV Comedy
 http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/16024/
-#EXTINF:0,Dosug TV Comedy HD
+#EXTINF:104,Dosug TV Comedy HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14209/index.m3u8
-#EXTINF:0,Dosug TV Fantastic HD
+#EXTINF:103,Dosug TV Fantastic HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14210/index.m3u8
-#EXTINF:0,Dosug TV History HD
+#EXTINF:104,Dosug TV History HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14211/index.m3u8
-#EXTINF:105,Dosug TV HIT
+#EXTINF:104,Dosug TV HIT
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14212/index.m3u8
-#EXTINF:104,Dosug TV Horror HD
+#EXTINF:102,Dosug TV
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14213/index.m3u8
 #EXTINF:104,Dosug TV Marvel HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14215/index.m3u8
-#EXTINF:104,Dosug TV New HD
+#EXTINF:105,Dosug TV New HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14216/index.m3u8
-#EXTINF:0,Dosug TV Russian HD
+#EXTINF:104,Dosug TV Russian HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14217/index.m3u8
 #EXTINF:104,Dosug TV VHS
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14225/index.m3u8
 #EXTINF:60,DTX HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/2006/index.m3u8
-#EXTINF:80,DTX HD
+#EXTINF:0,DTX HD
 http://ott.watch/stream/2ZYCRE4JK5/145.m3u8
-#EXTINF:106,DTX HD orig
+#EXTINF:105,DTX HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/5064/index.m3u8
-#EXTINF:100,Duo7 HD EE
+#EXTINF:0,Duo7 HD EE
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20079/index.m3u8
 #EXTINF:20,E HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14018/index.m3u8
@@ -284,33 +282,23 @@ http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14019/index.m3u8
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/5035/index.m3u8
 #EXTINF:0,Epic Drama HD
 http://91.210.251.166:4897/udp/239.0.3.8:4000
-#EXTINF:0,ETV EE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6402/index.m3u8
-#EXTINF:0,ETV+ EE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14131/index.m3u8
-#EXTINF:0,ETV+ EE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14132/index.m3u8
-#EXTINF:100,ETV+ HD EE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20080/index.m3u8
-#EXTINF:0,ETV2 EE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6403/index.m3u8
 #EXTINF:100,Eye Criminal HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/17067/index.m3u8
-#EXTINF:0,Eye Cyber HD
+#EXTINF:100,Eye Cyber HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20220/index.m3u8
 #EXTINF:100,Eye Drive HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20219/index.m3u8
 #EXTINF:100,Eye Family HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20216/index.m3u8
-#EXTINF:0,Eye Frozen HD
+#EXTINF:100,Eye Frozen HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/17066/index.m3u8
-#EXTINF:107,Eye History HD
+#EXTINF:108,Eye History HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20217/index.m3u8
-#EXTINF:0,Eye Media HD
+#EXTINF:100,Eye Media HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/17064/index.m3u8
-#EXTINF:0,Eye Oscar HD
+#EXTINF:100,Eye Oscar HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/17065/index.m3u8
-#EXTINF:113,Eye Western HD
+#EXTINF:111,Eye Western HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20218/index.m3u8
 #EXTINF:80,FAN HD
 http://ott.watch/stream/2ZYCRE4JK5/420.m3u8
@@ -322,35 +310,27 @@ http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/1018/index.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 #EXTINF:24,Film zone
 http://89.254.128.5:22280/film_zone/video.m3u8
-#EXTINF:0,FilmZone
-http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
 #EXTINF:120,Flix Snip
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10060/index.m3u8
-#EXTINF:0,Food Network
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/1107/index.m3u8
-#EXTINF:0,Food Network FHD
+#EXTINF:69,Food Network FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/2419/index.m3u8
 #EXTINF:80,Food Network HD
 http://ott.watch/stream/2ZYCRE4JK5/298.m3u8
-#EXTINF:0,Food Network HD 50
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10026/index.m3u8
-#EXTINF:0,Food Time HD
+#EXTINF:80,Food Time HD
 http://ott.watch/stream/2ZYCRE4JK5/216.m3u8
-#EXTINF:0,FoodTime
+#EXTINF:60,FoodTime
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/918/index.m3u8
 #EXTINF:60,FoodTime FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/2418/index.m3u8
-#EXTINF:0,FoodTime HD 50
+#EXTINF:100,FoodTime HD 50
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10025/index.m3u8
-#EXTINF:0,FOX ABAZA TV
-http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 #EXTINF:100,Fox HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19216/index.m3u8
-#EXTINF:103,Fox HD orig
+#EXTINF:102,Fox HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9018/index.m3u8
 #EXTINF:100,Fox Life HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14003/index.m3u8
-#EXTINF:0,Fox Life hd r
+#EXTINF:20,Fox Life hd r
 http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:64,Fox Life Russia HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
@@ -358,71 +338,69 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:64,Fox Life Russia HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
-#EXTINF:0,Fresh Adventure
+#EXTINF:60,Fresh Adventure
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19297/index.m3u8
-#EXTINF:0,Fresh Adventure HD
+#EXTINF:80,Fresh Adventure HD
 http://ott.watch/stream/2ZYCRE4JK5/432.m3u8
-#EXTINF:39,Fresh Cinema
+#EXTINF:60,Fresh Cinema
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19287/index.m3u8
-#EXTINF:0,Fresh Cinema HD
+#EXTINF:80,Fresh Cinema HD
 http://ott.watch/stream/2ZYCRE4JK5/423.m3u8
-#EXTINF:0,Fresh Comedy
+#EXTINF:60,Fresh Comedy
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19289/index.m3u8
-#EXTINF:0,Fresh Comedy HD
+#EXTINF:80,Fresh Comedy HD
 http://ott.watch/stream/2ZYCRE4JK5/426.m3u8
-#EXTINF:0,Fresh Family
+#EXTINF:54,Fresh Family
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19291/index.m3u8
-#EXTINF:0,Fresh Family HD
+#EXTINF:80,Fresh Family HD
 http://ott.watch/stream/2ZYCRE4JK5/427.m3u8
-#EXTINF:0,Fresh Fantastic
+#EXTINF:60,Fresh Fantastic
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19294/index.m3u8
 #EXTINF:80,Fresh Fantastic HD
 http://ott.watch/stream/2ZYCRE4JK5/429.m3u8
-#EXTINF:0,Fresh Horror HD
+#EXTINF:80,Fresh Horror HD
 http://ott.watch/stream/2ZYCRE4JK5/431.m3u8
-#EXTINF:0,FRESH Lyrics HD
+#EXTINF:100,FRESH Lyrics HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18093/index.m3u8
 #EXTINF:100,FRESH Pop Hits HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18084/index.m3u8
-#EXTINF:0,Fresh Premiere
+#EXTINF:60,Fresh Premiere
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19290/index.m3u8
-#EXTINF:0,Fresh Premiere HD
+#EXTINF:80,Fresh Premiere HD
 http://ott.watch/stream/2ZYCRE4JK5/424.m3u8
 #EXTINF:60,Fresh Rating
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19292/index.m3u8
-#EXTINF:0,Fresh Rating HD
+#EXTINF:80,Fresh Rating HD
 http://ott.watch/stream/2ZYCRE4JK5/422.m3u8
 #EXTINF:60,Fresh Romantic
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19298/index.m3u8
-#EXTINF:0,Fresh Romantic HD
+#EXTINF:80,Fresh Romantic HD
 http://ott.watch/stream/2ZYCRE4JK5/433.m3u8
 #EXTINF:60,Fresh Russian
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19299/index.m3u8
-#EXTINF:0,Fresh Series
+#EXTINF:60,Fresh Series
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19295/index.m3u8
-#EXTINF:0,Fresh Series HD
+#EXTINF:80,Fresh Series HD
 http://ott.watch/stream/2ZYCRE4JK5/430.m3u8
 #EXTINF:60,Fresh Thriller
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19300/index.m3u8
-#EXTINF:0,Fresh Thriller HD
+#EXTINF:80,Fresh Thriller HD
 http://ott.watch/stream/2ZYCRE4JK5/434.m3u8
-#EXTINF:0,Fresh VHS
+#EXTINF:60,Fresh VHS
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19293/index.m3u8
-#EXTINF:0,Gagsnetwork HD
-http://ott.watch/stream/2ZYCRE4JK5/458.m3u8
-#EXTINF:100,Galaxy HD
+#EXTINF:103,Galaxy HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/5045/index.m3u8
-#EXTINF:0,H1 International
+#EXTINF:24,H1 International
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:125,H2
+#EXTINF:100,H2
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/1052/index.m3u8
 #EXTINF:60,H2 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/2033/index.m3u8
-#EXTINF:0,H2 HD
+#EXTINF:80,H2 HD
 http://ott.watch/stream/2ZYCRE4JK5/65.m3u8
-#EXTINF:100,H2 HD orig
+#EXTINF:100,CDN
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9013/index.m3u8
-#EXTINF:0,HD Life
+#EXTINF:30,HD Life
 http://212.0.211.102:9999/play/a003/index.m3u8
 #EXTINF:0,HDL HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19251/index.m3u8
@@ -454,143 +432,139 @@ http://ott.watch/stream/2ZYCRE4JK5/368.m3u8
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15235/index.m3u8
 #EXTINF:80,ICTV HD
 http://ott.watch/stream/2ZYCRE4JK5/158.m3u8
-#EXTINF:0,ICTV HD
+#EXTINF:115,ICTV HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15123/index.m3u8
 #EXTINF:100,ICTV UA
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6302/index.m3u8
-#EXTINF:0,ID DISCOVERY
+#EXTINF:21,ID DISCOVERY
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:80,Insight TV HD
 http://ott.watch/stream/2ZYCRE4JK5/361.m3u8
 #EXTINF:104,Insomnia HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19398/index.m3u8
-#EXTINF:0,Investigation Discovery
-http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/94/
-#EXTINF:0,Investigation Discovery
+#EXTINF:80,Investigation Discovery
 http://ott.watch/stream/2ZYCRE4JK5/205.m3u8
-#EXTINF:60,Investigation Discovery HD
+#EXTINF:0,Investigation Discovery HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/2102/index.m3u8
-#EXTINF:104,Investigation Discovery HD orig
+#EXTINF:103,Investigation Discovery HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9054/index.m3u8
-#EXTINF:104,Investigation Discovery orig
+#EXTINF:103,Investigation Discovery orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9322/index.m3u8
-#EXTINF:15,ITV HD
+#EXTINF:16,ITV HD
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:100,K2 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15126/index.m3u8
-#EXTINF:0,KBC-Comics
+#EXTINF:146,KBC-Comics
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11073/index.m3u8
-#EXTINF:0,KBC-Elite comedys
+#EXTINF:111,KBC-Elite comedys
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11074/index.m3u8
-#EXTINF:0,KBC-Family Animation
+#EXTINF:116,KBC-Family Animation
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11075/index.m3u8
-#EXTINF:0,KBC-Fantastic
+#EXTINF:139,KBC-Fantastic
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11076/index.m3u8
-#EXTINF:0,KBC-History
+#EXTINF:104,KBC-History
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11077/index.m3u8
-#EXTINF:0,KBC-Newfilm
+#EXTINF:133,KBC-Newfilm
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11079/index.m3u8
-#EXTINF:0,KBC-Premium
+#EXTINF:125,KBC-Premium
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11080/index.m3u8
 #EXTINF:100,KinoJam 1 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/7260/index.m3u8
-#EXTINF:0,KinoJam 2 HD
+#EXTINF:100,KinoJam 2 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/7261/index.m3u8
-#EXTINF:0,Kinoliving HD
-http://ott.watch/stream/2ZYCRE4JK5/445.m3u8
 #EXTINF:21,Kinoman
 http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
-#EXTINF:0,Kinoshka Action HD
+#EXTINF:108,Kinoshka Action HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18118/index.m3u8
-#EXTINF:0,Kinoshka Drama HD
+#EXTINF:97,Kinoshka Drama HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18150/index.m3u8
-#EXTINF:65,Kinoshka Mystic HD
+#EXTINF:97,Kinoshka Mystic HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18059/index.m3u8
-#EXTINF:0,Kinoshka Premiere HD
+#EXTINF:108,Kinoshka Premiere HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18117/index.m3u8
-#EXTINF:0,Kinoshka Russian HD
+#EXTINF:108,Kinoshka Russian HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18058/index.m3u8
 #EXTINF:108,Kinoshka Thriller HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18055/index.m3u8
 #EXTINF:100,KLI Action FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20051/index.m3u8
-#EXTINF:0,KLI Cinema HD
+#EXTINF:100,KLI Cinema HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/16078/index.m3u8
-#EXTINF:0,KLI Club FHD
+#EXTINF:100,KLI Club FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19319/index.m3u8
 #EXTINF:100,KLI Comedy HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/16080/index.m3u8
-#EXTINF:0,KLI Docu HD
+#EXTINF:100,KLI Docu HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20143/index.m3u8
-#EXTINF:0,KLI Drama FHD
+#EXTINF:100,KLI Drama FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20053/index.m3u8
-#EXTINF:0,KLI Family HD
+#EXTINF:104,KLI Family HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18176/index.m3u8
-#EXTINF:0,KLI Humor HD
+#EXTINF:134,KLI Humor HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20052/index.m3u8
-#EXTINF:0,KLI Netflix HD
+#EXTINF:100,KLI Netflix HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20177/index.m3u8
-#EXTINF:0,KLI Premium HD
+#EXTINF:166,KLI Premium HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18048/index.m3u8
 #EXTINF:100,KLI Russian HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18049/index.m3u8
-#EXTINF:0,KLI Thriller HD
+#EXTINF:100,KLI Thriller HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18174/index.m3u8
-#EXTINF:0,KLI VHS HD
+#EXTINF:100,KLI VHS HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18173/index.m3u8
-#EXTINF:62,LIBERTY BBC
+#EXTINF:104,LIBERTY BBC
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15108/index.m3u8
 #EXTINF:104,Liberty DC FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15087/index.m3u8
-#EXTINF:0,Liberty Pixar FHD
+#EXTINF:104,Liberty Pixar FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15092/index.m3u8
-#EXTINF:110,Liberty SouthPark FHD
+#EXTINF:104,LIBERTY SouthPark
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/16053/index.m3u8
-#EXTINF:118,Lost HD
+#EXTINF:117,LOST HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11053/index.m3u8
 #EXTINF:100,M1 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15016/index.m3u8
 #EXTINF:100,M2 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15017/index.m3u8
-#EXTINF:0,Magic Action HD
+#EXTINF:100,Magic Action HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18066/index.m3u8
-#EXTINF:0,Magic Adventure HD
+#EXTINF:100,Magic Adventure HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20141/index.m3u8
-#EXTINF:0,Magic Comedy HD
+#EXTINF:100,Magic Comedy HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18063/index.m3u8
-#EXTINF:0,Magic Disney HD
+#EXTINF:100,Magic Disney HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18064/index.m3u8
-#EXTINF:0,Magic Family HD
+#EXTINF:115,Magic Family HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18170/index.m3u8
-#EXTINF:0,Magic Galaxy HD
+#EXTINF:98,Magic Galaxy HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18067/index.m3u8
-#EXTINF:0,Magic Horror HD
+#EXTINF:100,Magic Horror HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18068/index.m3u8
-#EXTINF:0,Magic Karate HD
+#EXTINF:100,Magic Karate HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18061/index.m3u8
-#EXTINF:82,Magic Love HD
+#EXTINF:100,Magic Love HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18171/index.m3u8
-#EXTINF:0,Magic VHS HD
+#EXTINF:100,Magic VHS HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18062/index.m3u8
 #EXTINF:60,MM Celebrity HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/16084/index.m3u8
-#EXTINF:0,MM Love HD
+#EXTINF:100,MM Love HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13010/index.m3u8
-#EXTINF:0,MM NewFilm 1 HD
+#EXTINF:60,MM NewFilm 1 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13011/index.m3u8
-#EXTINF:0,MM NewFilm 2 HD
+#EXTINF:60,MM NewFilm 2 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13012/index.m3u8
-#EXTINF:59,MM NewFilm 3 HD
+#EXTINF:57,MM NewFilm 3 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13013/index.m3u8
-#EXTINF:0,MM NewFilm RU HD
+#EXTINF:60,MM NewFilm RU HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13014/index.m3u8
 #EXTINF:60,MM OldSchool HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19413/index.m3u8
-#EXTINF:0,MM Relax HD
+#EXTINF:50,MM Relax HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13030/index.m3u8
 #EXTINF:0,MM Rock HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13015/index.m3u8
-#EXTINF:59,MM Smile HD
+#EXTINF:60,MM Smile HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13043/index.m3u8
 #EXTINF:60,MM Translation HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18196/index.m3u8
@@ -598,41 +572,39 @@ http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18196/index.m3u8
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13017/index.m3u8
 #EXTINF:57,MS Crime HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15136/index.m3u8
-#EXTINF:0,MS Prisons HD
+#EXTINF:61,MS Prisons HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15137/index.m3u8
-#EXTINF:61,MS Toons HD
+#EXTINF:59,MS Toons HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15138/index.m3u8
-#EXTINF:0,MS Young Blood HD
+#EXTINF:106,MS Young Blood HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/16147/index.m3u8
-#EXTINF:0,MYTV
+#EXTINF:100,MYTV
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19407/index.m3u8
-#EXTINF:0,MYTV 2
+#EXTINF:100,MYTV 2
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19408/index.m3u8
 #EXTINF:64,Nat Geo Russia HD
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
 #EXTINF:60,Nat Geo Wild FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/2415/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
+#EXTINF:20,Nat Geo Wild HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/2067/index.m3u8
 #EXTINF:60,NAT_Prima
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:20,National Geographic HD
+#EXTINF:100,National Geographic HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14001/index.m3u8
-#EXTINF:20,National Geographic HD orig
+#EXTINF:100,National Geographic HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14002/index.m3u8
-#EXTINF:0,National Geographic SE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12099/index.m3u8
 #EXTINF:100,Paradise HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11100/index.m3u8
-#EXTINF:0,Paradox HD
+#EXTINF:100,Paradox HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11098/index.m3u8
 #EXTINF:120,Paramount Network HD SE
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12060/index.m3u8
-#EXTINF:0,Plan B
+#EXTINF:11,Plan B HD
 http://31.148.6.4:10236/index.m3u8?%7CUser-agent=deooleg
-#EXTINF:0,Plan B
+#EXTINF:11,Plan B HD
 http://31.148.6.4:10236/index.m3u8
-#EXTINF:0,Plan B HD
+#EXTINF:80,Plan B HD
 http://ott.watch/stream/2ZYCRE4JK5/196.m3u8
 #EXTINF:0,Plan_B
 http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/53962/
@@ -640,111 +612,109 @@ http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/53962/
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11094/index.m3u8
 #EXTINF:100,Premium HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11095/index.m3u8
-#EXTINF:0,Prokop TV Comedy
+#EXTINF:104,Prokop TV Comedy
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18143/index.m3u8
-#EXTINF:0,Prokop TV Docu
+#EXTINF:103,Prokop TV Docu
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19314/index.m3u8
-#EXTINF:0,Prokop TV Fantazy
+#EXTINF:102,Prokop TV Fantazy
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18144/index.m3u8
-#EXTINF:103,Prokop TV History
+#EXTINF:104,Prokop TV History
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18142/index.m3u8
-#EXTINF:0,Prokop TV Horror
+#EXTINF:100,Prokop TV Horror
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18145/index.m3u8
-#EXTINF:0,Prokop TV Netflix
+#EXTINF:105,Prokop TV Netflix
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19272/index.m3u8
-#EXTINF:0,Prokop TV Serial
+#EXTINF:105,Prokop TV Serial
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19271/index.m3u8
-#EXTINF:0,Prokop TV UA
+#EXTINF:104,Prokop TV UA
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19399/index.m3u8
 #EXTINF:80,red HD
 http://ott.watch/stream/2ZYCRE4JK5/69.m3u8
-#EXTINF:0,RT Documentary HD
+#EXTINF:111,RT Documentary HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14157/index.m3u8
-#EXTINF:0,RT Documentary HD orig
+#EXTINF:132,RT Documentary HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9031/index.m3u8
-#EXTINF:0,RTG HD
+#EXTINF:71,RTG HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/210/index.m3u8
-#EXTINF:0,RTG HD orig
+#EXTINF:110,RTG HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9021/index.m3u8
-#EXTINF:0,RU TV FHD
+#EXTINF:100,RU TV FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14164/index.m3u8
-#EXTINF:0,RU TV HD
+#EXTINF:103,RU TV HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19247/index.m3u8
-#EXTINF:60,Russian Extreme HD
+#EXTINF:36,Russian Extreme HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/2077/index.m3u8
-#EXTINF:105,Russian Extreme HD orig
+#EXTINF:105,RuExtreme HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9042/index.m3u8
-#EXTINF:0,RUSSIAN TV
+#EXTINF:120,RUSSIAN TV
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12177/index.m3u8
-#EXTINF:0,Sky Atlantic FHD
+#EXTINF:100,Sky Atlantic FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19102/index.m3u8
 #EXTINF:100,SKY HIGH ANIME HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19405/index.m3u8
 #EXTINF:100,SKY HIGH BRAIN HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19404/index.m3u8
-#EXTINF:100,18172
+#EXTINF:100,SKY HIGH DOC HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18172/index.m3u8
 #EXTINF:108,SKY HIGH EPOCH HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14243/index.m3u8
-#EXTINF:0,SKY HIGH FIGHT + HD
+#EXTINF:100,SKY HIGH FIGHT + HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15097/index.m3u8
-#EXTINF:0,SKY HIGH FUTURE HD
+#EXTINF:100,SKY HIGH FUTURE HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15103/index.m3u8
-#EXTINF:0,SKY HIGH HEROES HD
+#EXTINF:100,SKY HIGH HEROES HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14242/index.m3u8
-#EXTINF:0,SKY HIGH LO FI HD
+#EXTINF:116,SKY HIGH LO FI HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19312/index.m3u8
-#EXTINF:0,SKY HIGH MAN HD
+#EXTINF:100,SKY HIGH MAN HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14245/index.m3u8
-#EXTINF:0,SKY HIGH NATURE FHD
+#EXTINF:103,SKY HIGH NATURE FHD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19309/index.m3u8
-#EXTINF:0,SKY HIGH ORIG HD
+#EXTINF:100,SKY HIGH ORIG HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19310/index.m3u8
-#EXTINF:0,SKY HIGH SERIES HD
+#EXTINF:100,SKY HIGH SERIES HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14240/index.m3u8
 #EXTINF:100,SKY HIGH SPIRIT HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14249/index.m3u8
-#EXTINF:131,Sky2000 HD
+#EXTINF:123,Sky2000 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11054/index.m3u8
-#EXTINF:0,Star Cinema
+#EXTINF:104,Star Cinema
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/992/index.m3u8
 #EXTINF:64,STAR Cinema HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
-#EXTINF:0,Star Cinema HD
+#EXTINF:80,Star Cinema HD
 http://ott.watch/stream/2ZYCRE4JK5/310.m3u8
 #EXTINF:0,Star Cinema HD UA
 http://91.210.251.166:4883/udp/239.0.2.63:4000
-#EXTINF:0,Star Cinema HD UA
+#EXTINF:100,Star Cinema HD UA
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6325/index.m3u8
-#EXTINF:0,Star Cinema UA
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15262/index.m3u8
-#EXTINF:0,Star Family
+#EXTINF:32,Star Family
 http://89.254.128.5:22280/star_family_hd/video.m3u8
 #EXTINF:64,STAR Family HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
-#EXTINF:0,Star Family HD
+#EXTINF:80,Star Family HD
 http://ott.watch/stream/2ZYCRE4JK5/226.m3u8
-#EXTINF:0,Star Family HD LV
+#EXTINF:101,Star Family HD LV
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/1042/index.m3u8
-#EXTINF:0,Star Family HD UA
+#EXTINF:100,Star Family HD UA
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6326/index.m3u8
 #EXTINF:0,Star Family HD UA
 http://91.210.251.166:4882/udp/239.0.2.65:4000
-#EXTINF:0,STAR TV
+#EXTINF:30,STAR TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:0,Start Air
+#EXTINF:64,Start Air
 http://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
-#EXTINF:0,START Air HD
+#EXTINF:64,Start Air
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
-#EXTINF:0,START Air HD
+#EXTINF:100,START Air HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18036/index.m3u8
 #EXTINF:64,Start World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
-#EXTINF:0,START World
+#EXTINF:100,START World
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18032/index.m3u8
-#EXTINF:0,Start World
+#EXTINF:64,Start World
 http://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
-#EXTINF:0,START World HD
+#EXTINF:100,START World HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19248/index.m3u8
 #EXTINF:60,TLC HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/232/index.m3u8
@@ -752,23 +722,21 @@ http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/232/index.m3u8
 http://ott.watch/stream/2ZYCRE4JK5/168.m3u8
 #EXTINF:103,TLC HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9024/index.m3u8
-#EXTINF:100,TOP BUDO HD
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13003/index.m3u8
-#EXTINF:82,TOP Cinema HD
+#EXTINF:91,TOP Cinema HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13004/index.m3u8
 #EXTINF:100,TOP MIX HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13006/index.m3u8
-#EXTINF:0,Trash HD
+#EXTINF:100,Trash HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6396/index.m3u8
 #EXTINF:60,Travel Channel HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/233/index.m3u8
-#EXTINF:0,Travel channel HD
+#EXTINF:80,Travel channel HD
 http://ott.watch/stream/2ZYCRE4JK5/231.m3u8
 #EXTINF:104,Travel Channel HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9025/index.m3u8
-#EXTINF:0,Travel+Adventure HD orig
+#EXTINF:119,Travel+Adventure HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9019/index.m3u8
-#EXTINF:0,TV1000 Action
+#EXTINF:28,TV1000 Action
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:64,TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
@@ -778,161 +746,143 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:100,UA
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6324/index.m3u8
-#EXTINF:0,UA TV HD
+#EXTINF:80,UA TV HD
 http://ott.watch/stream/2ZYCRE4JK5/63.m3u8
-#EXTINF:0,Ukraine 1 HD
+#EXTINF:80,Ukraine 1 HD
 http://ott.watch/stream/2ZYCRE4JK5/98.m3u8
-#EXTINF:80,Ukraine World News HD
-http://ott.watch/stream/2ZYCRE4JK5/441.m3u8
-#EXTINF:0,UZ Kino1 HD
+#EXTINF:108,UZ Kino1 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13074/index.m3u8
-#EXTINF:0,UZ Kino2 HD
+#EXTINF:100,UZ Kino2 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13073/index.m3u8
-#EXTINF:0,UZ Kino3 HD
+#EXTINF:108,UZ Kino3 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13075/index.m3u8
 #EXTINF:0,UZ Kino4 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13076/index.m3u8
-#EXTINF:0,UZ Kino5 HD
+#EXTINF:100,UZ Kino5 HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14232/index.m3u8
-#EXTINF:0,UZ Klip New HD
+#EXTINF:100,UZ KLIP NEW
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13067/index.m3u8
-#EXTINF:100,UZ Swiridenko TV HD
+#EXTINF:108,UZ Swiridenko TV HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18106/index.m3u8
 #EXTINF:0,UZ Swiridenko TV HD 2
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18107/index.m3u8
-#EXTINF:100, UZ TV HD
+#EXTINF:100,UZ TV HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14220/index.m3u8
 #EXTINF:100,VB VHS Classic
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19429/index.m3u8
-#EXTINF:0,VF Adventure
+#EXTINF:100,VF Adventure
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10000/index.m3u8
-#EXTINF:0,VF Anime
+#EXTINF:100,VF Anime
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10001/index.m3u8
 #EXTINF:100,VF Art house
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11119/index.m3u8
-#EXTINF:0,VF Cartoon
+#EXTINF:100,VF Cartoon
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10002/index.m3u8
 #EXTINF:100,VF Cartoon 18+
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11117/index.m3u8
-#EXTINF:0,VF Classic
+#EXTINF:100,VF Classic
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10054/index.m3u8
-#EXTINF:0,VF Comedy
+#EXTINF:100,VF Comedy
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10003/index.m3u8
-#EXTINF:0,VF Comics
+#EXTINF:100,VF Comics
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13092/index.m3u8
-#EXTINF:0,VF Detective
+#EXTINF:100,VF Detective
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11120/index.m3u8
 #EXTINF:41,VF Disney Cartoon
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15027/index.m3u8
-#EXTINF:0,VF Disney Movie
+#EXTINF:104,VF Disney Movie
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15010/index.m3u8
-#EXTINF:0,VF Family
+#EXTINF:100,VF Family
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10004/index.m3u8
-#EXTINF:0,VF Fantastic
+#EXTINF:100,VF Fantastic
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11121/index.m3u8
-#EXTINF:0,VF Fantasy
+#EXTINF:100,VF Fantasy
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10005/index.m3u8
-#EXTINF:0,VF HBO
+#EXTINF:104,VF HBO
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19428/index.m3u8
-#EXTINF:0,VF Marvel
+#EXTINF:100,VF Marvel
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10081/index.m3u8
-#EXTINF:0,VF Melodrama
+#EXTINF:100,VF Melodrama
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10006/index.m3u8
-#EXTINF:0,VF Metal
+#EXTINF:104,VF Metal
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/17033/index.m3u8
-#EXTINF:0,VF Modern Talking
+#EXTINF:104,VF Modern Talking
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14004/index.m3u8
-#EXTINF:0,VF Mystic
+#EXTINF:100,VF Mystic
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10007/index.m3u8
-#EXTINF:0,VF Netflix
+#EXTINF:104,VF Netflix
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/19427/index.m3u8
-#EXTINF:0,VF New Year
+#EXTINF:129,VF New Year
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15522/index.m3u8
-#EXTINF:0,VF Premiere
+#EXTINF:100,VF Premiere
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10052/index.m3u8
-#EXTINF:0,VF Series
+#EXTINF:100,VF Series
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13085/index.m3u8
 #EXTINF:104,VF The X-Files
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/17002/index.m3u8
-#EXTINF:0,VF Thriller
+#EXTINF:100,VF Thriller
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/13089/index.m3u8
 #EXTINF:100,VF TOP Series
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11116/index.m3u8
-#EXTINF:0,VF VHS Cartoon
+#EXTINF:100,VF VHS Cartoon
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11118/index.m3u8
 #EXTINF:100,VF VHS MIX
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/10009/index.m3u8
-#EXTINF:0,Viasat Explore HD
+#EXTINF:64,Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/720p.m3u8
-#EXTINF:0,Viasat Explore HD CEE
+#EXTINF:100,Viasat Explore HD CEE
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12008/index.m3u8
-#EXTINF:0,VIASAT FILM ACTION HD SE
+#EXTINF:113,VIASAT FILM ACTION HD SE
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12081/index.m3u8
-#EXTINF:0,VIASAT FILM HITS HD SE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12072/index.m3u8
-#EXTINF:0,VIASAT FILM PREMIER HD SE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12082/index.m3u8
 #EXTINF:0,VIASAT HISTORY
 http://91.210.251.166:4890/udp/239.0.3.1:4000
-#EXTINF:0,Viasat History HD
+#EXTINF:64,Viasat History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/720p.m3u8
-#EXTINF:0,VIASAT HISTORY HD SE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12101/index.m3u8
 #EXTINF:0,Viasat Kino Action HD
 http://91.210.251.166:4895/udp/239.0.3.6:4000
-#EXTINF:0,Viasat Kino Action HD LV
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12024/index.m3u8
 #EXTINF:0,Viasat Kino Comedy HD
 http://91.210.251.166:4896/udp/239.0.3.7:4000
 #EXTINF:0,VIASAT KINO HD
 http://91.210.251.166:4893/udp/239.0.3.4:4000
-#EXTINF:0,VIASAT MOTOR HD SE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12104/index.m3u8
-#EXTINF:0,VIASAT SERIES HD SE
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/12073/index.m3u8
-#EXTINF:0,Victory HD
+#EXTINF:100,Victory HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/11097/index.m3u8
-#EXTINF:0,Viju Explore HD
+#EXTINF:80,Viju Explore HD
 http://ott.watch/stream/2ZYCRE4JK5/239.m3u8
-#EXTINF:0,Viju Explore HD
+#EXTINF:100,Viju Explore HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6381/index.m3u8
-#EXTINF:0,Viju Explore HD orig
+#EXTINF:100,Viju Explore HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9075/index.m3u8
-#EXTINF:0,Viju History HD
+#EXTINF:60,Viju History HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/203/index.m3u8
-#EXTINF:0,Viju History HD
+#EXTINF:80,Viju History HD
 http://ott.watch/stream/2ZYCRE4JK5/101.m3u8
-#EXTINF:0,Viju History HD orig
+#EXTINF:100,Viju History HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9060/index.m3u8
-#EXTINF:0,Viju Nature HD
+#EXTINF:100,Viju Nature HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15225/index.m3u8
-#EXTINF:0,Viju TV 1000 Action HD
+#EXTINF:80,Viju TV 1000 Action HD
 http://ott.watch/stream/2ZYCRE4JK5/100.m3u8
-#EXTINF:0,Viju TV 1000 HD
+#EXTINF:80,Viju TV 1000 HD
 http://ott.watch/stream/2ZYCRE4JK5/110.m3u8
-#EXTINF:0,Viju TV1000 Action HD
+#EXTINF:100,Viju TV1000 Action HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6386/index.m3u8
-#EXTINF:0,Viju TV1000 Action HD orig
+#EXTINF:100,Viju TV1000 Action HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9057/index.m3u8
-#EXTINF:0,Viju TV1000 HD
+#EXTINF:28,Viju TV1000 HD
 http://bl.uma.media/live/485542/HLS/2703360_3/2/1/playlist.m3u8
-#EXTINF:0,Viju TV1000 HD
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6387/index.m3u8
-#EXTINF:0,Viju TV1000 HD orig
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9058/index.m3u8
-#EXTINF:0,Viju+ Comedy HD
+#EXTINF:80,Viju+ Comedy HD
 http://ott.watch/stream/2ZYCRE4JK5/201.m3u8
-#EXTINF:0,Viju+ Comedy HD
+#EXTINF:60,Viju+ Comedy HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/200/index.m3u8
 #EXTINF:0,Viju+ Comedy HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/5080/index.m3u8
-#EXTINF:0,Viju+ Megahit HD
+#EXTINF:60,Viju+ Megahit HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/201/index.m3u8
-#EXTINF:0,Viju+ Megahit HD
+#EXTINF:80,Viju+ Megahit HD
 http://ott.watch/stream/2ZYCRE4JK5/200.m3u8
 #EXTINF:0,Viju+ Megahit HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/5081/index.m3u8
-#EXTINF:0,Viju+ Planet HD
+#EXTINF:80,Viju+ Planet HD
 http://ott.watch/stream/2ZYCRE4JK5/240.m3u8
 #EXTINF:0,Viju+ Planet HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9027/index.m3u8
@@ -950,75 +900,61 @@ http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/2443/index.m3u8
 http://ott.watch/stream/2ZYCRE4JK5/311.m3u8
 #EXTINF:0,Viju+ Serial HD orig
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9245/index.m3u8
-#EXTINF:0,VIP Comedy
+#EXTINF:64,TV1000 Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:0,VIP Comedy
+#EXTINF:64,TV1000 Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
-#EXTINF:0,VIP Megahit
+#EXTINF:64,TV1000 Megahit HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:0,VIP Megahit HD
+#EXTINF:64,TV1000 Megahit HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
-#EXTINF:0,VIP Premiere
+#EXTINF:28,VIP Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,VIP Serial
+#EXTINF:64,ViP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:0,VIP Serial HD
+#EXTINF:28,VIP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,VIP Serial HD
+#EXTINF:64,ViP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
-#EXTINF:100,WLIW21
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/1094/index.m3u8
-#EXTINF:105,WMBC Digital Television
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/1098/index.m3u8
-#EXTINF:80,World Fashion Channel HD
-http://ott.watch/stream/2ZYCRE4JK5/119.m3u8
-#EXTINF:23,World HD
+#EXTINF:20,World HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:0,Yosso TV Adrenaline
+#EXTINF:126,Yosso TV Adrenaline
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15105/index.m3u8
-#EXTINF:0,Yosso TV Adventure
+#EXTINF:125,Yosso TV Adventure
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15510/index.m3u8
-#EXTINF:0,Yosso TV Best
+#EXTINF:120,Yosso TV Best
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14236/index.m3u8
-#EXTINF:0,Yosso TV Grand
+#EXTINF:118,Yosso TV Grand
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14171/index.m3u8
-#EXTINF:0,Yosso TV Netflix
+#EXTINF:100,Yosso TV Netflix
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/20163/index.m3u8
-#EXTINF:0,Yosso TV Oblivion
+#EXTINF:100,Yosso TV Oblivion
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15509/index.m3u8
-#EXTINF:0,Yosso TV Thriller
+#EXTINF:141,Yosso TV Thriller
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15168/index.m3u8
-#EXTINF:0,Yosso TV VHS
+#EXTINF:100,Yosso TV VHS
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14172/index.m3u8
-#EXTINF:0,Z! Comedy HD
+#EXTINF:100,Z! Comedy HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14135/index.m3u8
-#EXTINF:0,Z! Crime HD
+#EXTINF:100,Z! Crime HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14136/index.m3u8
-#EXTINF:60,Z! Horror HD
+#EXTINF:100,Z! Horror HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14137/index.m3u8
-#EXTINF:0,Z! Serial HD
+#EXTINF:100,Z! Serial HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15140/index.m3u8
-#EXTINF:0,Z! Travel HD
+#EXTINF:100,Z! Travel HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/17063/index.m3u8
-#EXTINF:0,Zoom HD
+#EXTINF:80,Zoom HD
 http://ott.watch/stream/2ZYCRE4JK5/327.m3u8
 #EXTINF:100,ZOOM HD
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/15130/index.m3u8
-#EXTINF:120,Interracial Red TV
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6224/index.m3u8
 #EXTINF:0,National Geographic
 http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/29/
 #EXTINF:80,Cartoons Big HD
 http://ott.watch/stream/2ZYCRE4JK5/348.m3u8
 #EXTINF:60,CGTN
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/830/index.m3u8
-#EXTINF:0,CGTN orig
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9217/index.m3u8
 #EXTINF:0,Paradise HD
 http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/19551/
-#EXTINF:0,SKY HIGH MIX 3D
+#EXTINF:150,SKY HIGH MIX 3D
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/14246/index.m3u8
-#EXTINF:0,Travel Channel
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9314/index.m3u8
-#EXTINF:0,Viju Nature orig
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/9295/index.m3u8
