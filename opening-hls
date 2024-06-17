@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 ,BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 ,BackusTV Dark HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 ,Bollywood HD
+https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 ,Cinema
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+#EXTINF:-1 ,Cinema HD
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 ,FlixSnip
+http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcwOTQ2NjM2OCwiaHdpZCI6ImViNGUxZTk3Mzc2OTRlYTc3ZjExZDIyZjhkNTJiY2ZlZTI1Yjc2YzQyY2I0NDEzMDZiMDNlNWExYTFiZmFhMWMiLCJsYXN0X3JlcV9kYXRlIjoxNzA4ODYxNTY4LCJzZXNzaW9uX2lkIjoiNTYwNjI3ZGYxOGYxOTM0N2Q0ZTU0ZDVhNTBjYzM3ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bc0v7rOA71m1BGCU5DEd59x5Jt8JV_xitkahKOabI3k
+#EXTINF:-1 ,H2
+http://w1kgb9l5.rostelekom.xyz/iptv/WLSZPSAMXB5A47/1052/index.m3u8
+#EXTINF:-1 ,H2
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/1052/index.m3u8
+#EXTINF:-1 ,H2 HD
+http://w1kgb9l5.rostelekom.xyz/iptv/WLSZPSAMXB5A47/2033/index.m3u8
+#EXTINF:-1 ,H2 HD
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2033/index.m3u8
+#EXTINF:-1 ,H2 HD orig
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9013/index.m3u8
+#EXTINF:-1 ,HDL
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+#EXTINF:-1 ,History HD
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/231/index.m3u8
+#EXTINF:-1 ,History HD CEE
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/837/index.m3u8
+#EXTINF:-1 ,History HD orig
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9023/index.m3u8
+#EXTINF:-1 ,Hollywood HD
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Trash TV
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 ,Viju+ Serial HD
+http://91.205.199.3:80/vipserialhd/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 ,.Black
+https://stream01.vnet.am/Kinosemya/mono.m3u8
+#EXTINF:-1 ,A1
+http://31.148.48.15:80/A1/index.m3u8?token=test
+#EXTINF:-1 ,Amedia 1
+http://31.148.48.15/A1/index.m3u8?token=test
+#EXTINF:-1 ,Amedia 2
+http://31.148.48.15/A2/index.m3u8?token=test
+#EXTINF:-1 ,Amedia 2 HD
+http://31.148.48.15:80/A2/index.m3u8?token=test
+#EXTINF:-1 ,Amedia Hit HD
+http://92.242.110.52:9835/udp/238.1.11.3:1234
+#EXTINF:-1 ,Amedia Premium
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 ,Amedia Premium HD
+http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
+#EXTINF:-1 ,Amedia Premium HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/601/
+#EXTINF:-1 ,Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ATV Filmzone
+http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BACKUS TV
+https://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 ,BACKUSTV
+http://stream.backustv.ru/content/39864/index.m3u8
+#EXTINF:-1 ,BackusTV dark
+https://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 ,BACKUSTV ORIGINAL
+http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
+#EXTINF:-1 ,BigAsia HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,Cinema
+http://188.113.190.15/212/video.m3u8
+#EXTINF:-1 ,Cinema HD
+http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 ,Comedy Dosug TV
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/16024/
+#EXTINF:-1 ,Discovery
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/2005/
+#EXTINF:-1 ,Discovery HD
+http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 ,Discovery ID
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 ,Discovery ID
+https://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
+#EXTINF:-1 ,DocuBox HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/56228/
+#EXTINF:-1 ,Dosug TV HIT
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/16030/
+#EXTINF:-1 ,DTX HD PL
+http://hwcfmltj.rostelekom.xyz/iptv/FD3HX3U9B5TGZH/2006/index.m3u8
+#EXTINF:-1 ,ETV
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,FILM TV
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:-1 ,Film TV
+http://hls.goodgame.ru/hls/163253.m3u8?%7Cuser-agent=rostik_tv
+#EXTINF:-1 ,TDM TV - FMC
+http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:-1 ,Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 ,Fox
+http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 ,FOX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/9916.ts
+#EXTINF:-1 ,Fox Life HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/26384/
+#EXTINF:-1 ,HD Life
+http://31.148.48.15:80/HD_Life/index.m3u8?token=test
+#EXTINF:-1 ,HDL
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/37631/
+#EXTINF:-1 ,Hollywood
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
+#EXTINF:-1 ,HOLLYWOOD HD
+http://31.148.48.15:80/MGM_HD/index.m3u8?token=test
+#EXTINF:-1 ,Hollywood HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/48359/
+#EXTINF:-1 ,Insomnia HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/27743/
+#EXTINF:-1 ,Kinoman
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MediaService Lorenz TV
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1 ,NAT_Prima
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 ,National Geographic
+http://45.159.74.13:80/NationalGeographic/index.m3u8
+#EXTINF:-1 ,Paradise HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/19551/
+#EXTINF:-1 ,Plan_B
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/53962/
+#EXTINF:-1 ,Premiere HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/19550/
+#EXTINF:-1 ,Premiere HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/29539/
+#EXTINF:-1 ,Premiere HD 1
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/33691/
+#EXTINF:-1 ,Premium HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/19547/
+#EXTINF:-1 ,Russia Today Doc HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 ,Russian extreme
+http://195.26.83.96:7029/play/a008
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/playlist.m3u8?version=3
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 ,Serial HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/64127/
+#EXTINF:-1 ,TDM TV - Series
+http://195.9.195.3:8080/hls/186021.m3u8
+#EXTINF:-1 ,Timeless Dizi Channel HD
+https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 ,Travel+Adventure HD
+http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
+#EXTINF:-1 ,TV XXI
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+#EXTINF:-1 ,TV XXI
+http://31.148.48.15:80/TV_XXI/index.m3u8?token=test
+#EXTINF:-1 ,TV XXI
+http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
+#EXTINF:-1 ,TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 ,TV1000
+http://109.171.45.109:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000 Action
+http://109.171.45.109:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8?version=3
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 ,ULTRAHDCINEMAHD
+http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAHD.m3u8
+#EXTINF:-1 ,viju History
+http://flu.ttk.mx:9090/Viasat_History/index.m3u8?token=orh6o
+#EXTINF:-1 ,Viju TV1000
+http://188.113.190.15/31/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,viju TV1000 action
+http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6o
+#EXTINF:-1 ,Viju TV1000 Action
+http://188.113.190.15/30/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,VIJU+ COMEDY HD
+http://188.113.190.15/203/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,VIJU+ MEGAHIT HD
+http://188.113.190.15/202/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,VIJU+ PREMIERE HD
+http://188.113.190.15/201/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,ViP Comedy HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/2001/
+#EXTINF:-1 ,ViP Premiere HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/2003/
+#EXTINF:-1 ,World HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
