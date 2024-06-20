@@ -15,7 +15,7 @@ https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:0,Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:0,4830
+#EXTINF:0,Trash
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
